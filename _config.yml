@@ -1,10 +1,11 @@
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
+markdown: GFM
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
 
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: andreondra/jekyll-theme-simplex
