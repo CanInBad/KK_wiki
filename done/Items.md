@@ -28,7 +28,7 @@ See [Liquids](Items#Liquids) for more details and recipes.
 
 |Heart Fruit|Ice|Seed bags|
 | :-: | :-: | :-: |
-| ![Heart Fruit](../images/items/Heart.png) | ![Ice](../images/items/ice.png) | ![Seed bags](../images/items/Seeds.png) |
+| ![Heart Fruit](../images/items/Heart.png) | ![Ice](../images/items/Ice.png) | ![Seed bags](../images/items/Seeds.png) |
 
 <!-- Heart.png\|Heart Fruit.PNG\|fruits ice.png\|Ice Seeds.PNG\|Seed bags -->
 

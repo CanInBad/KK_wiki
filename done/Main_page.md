@@ -56,7 +56,7 @@ contributors:
       <center>Equipment</center></a>
     </td>
     <td>
-      <a href="../notdone/Modding"><img src="../images/main-page/2048px-OOjs_UI_icon_advanced.svg.png" alt="Hand crank grinder in its natural habitat"/><br/>
+      <a href="../done/Modding"><img src="../images/main-page/2048px-OOjs_UI_icon_advanced.svg.png" alt="Hand crank grinder in its natural habitat"/><br/>
       <center>Modding</center></a>
     </td>
   </tr>
