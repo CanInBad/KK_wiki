@@ -42,7 +42,7 @@ The next sections will cover the basics of culminating the above into a playable
 
 ## Basics into playable map
 
-> [!IMPORTANT] Working in progress
+> [!IMPORTANT]
 > This is working in progress <!-- well, working in progress even after wiki shutted down lol -->
 
 Open up the KoboldKare SDK and create a new scene.
@@ -87,8 +87,6 @@ In the same folder, right click and Create → Addressables → New External Cat
 
 Open Unity Editor, and from the top menu, select "Tools" → "KoboldKare" → "Upload Steam Workshop Mod".  
 This will launch the wizard. You should see this window.
-
-Workshop-upload-Wizard
 
 <div align="center">
    <img src="../images/creating-a-modded-map/Workshop-upload-Wizard.png" alt="Workshop Upload Wizard" width="65%" /><br>
