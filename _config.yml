@@ -8,4 +8,4 @@ relative_links:
 include:
   - README.md
 
-remote_theme: andreondra/jekyll-theme-simplex
+remote_theme: pages-themes/minimal
