@@ -21,7 +21,7 @@ Before you get started creating custom mods, you'll need to start with [Installi
 | Character Modding |
 | :- |
 | [Getting started with Character Modding](../done/Getting_started_with_Character_Modding) |
-| [Making the head invisible for first person]() |
+| [Making the head invisible for first person](../done/Making_the_head_invisible_for_first_person) |
 | [Setting up JigglePhysics]() |
 | [Setting up inflation features]() |
 | [Setting up a Ragdoll]() |

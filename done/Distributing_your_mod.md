@@ -13,7 +13,7 @@ So now you have some assets that work in editor, and you want to share them with
 You want an asset group that contains all your various additions to the game. You can find asset groups under the Window → Asset Management → Addressables → Groups.
 
 <div align="center">
-   <img src="../images/distributing_your_mod/Lilith_and_surfmap_asset_groups.png" alt="Asset groups" width="65%" /><br>
+   <img src="../images/distributing-your-mod/Lilith_and_surfmap_asset_groups.png" alt="Asset groups" width="65%" /><br>
    <sup>Asset groups</sup>
 </div>
 
@@ -28,14 +28,14 @@ You also need to install the Windows Build Support module, Mac Build Support mod
 As for the others, you can install them via Unity Hub by clicking on the gear of the KoboldKare's version of unity and clicking "Add modules".
 
 <div align="center">
-   <img src="../images/distributing_your_mod/Add_Modules_button.png" alt="Add modules button" width="65%" /><br>
+   <img src="../images/distributing-your-mod/Add_Modules_button.png" alt="Add modules button" width="65%" /><br>
    <sup>Add modules button</sup>
 </div>
 
 Then selecting all the modules, and hitting Install after.
 
 <div align="center">
-   <img src="../images/distributing_your_mod/Build_support_modules.png" alt="Build support modules" width="65%" /><br>
+   <img src="../images/distributing-your-mod/Build_support_modules.png" alt="Build support modules" width="65%" /><br>
    <sup>Build support modules</sup>
 </div>
 
@@ -44,7 +44,7 @@ Then selecting all the modules, and hitting Install after.
 Each mod is going to need a unique External Catalog Setup, you can create one within the project tab with Create → Addressables → New External Catalog.
 
 <div align="center">
-   <img src="../images/distributing_your_mod/External_catalog_setup.png" alt="External Catalog Setup" width="65%" /><br>
+   <img src="../images/distributing-your-mod/External_catalog_setup.png" alt="External Catalog Setup" width="65%" /><br>
    <sup>External Catalog Setup</sup>
 </div>
 
@@ -61,7 +61,7 @@ Don't worry, you don't need a Steam account to use the mods, only to create them
 Armed with our External Catalog, and multi-platform build support, we can use the Upload Steam Workshop Mod wizard to build it into a KoboldKare mod. You can access this wizard through Tools → KoboldKare → Upload Steam Workshop Mod.
 
 <div align="center">
-   <img src="../images/distributing_your_mod/Upload_steam_workshop_mod.png" alt="Upload steam workshop tutorial" width="65%" /><br>
+   <img src="../images/distributing-your-mod/Upload_steam_workshop_mod.png" alt="Upload steam workshop tutorial" width="65%" /><br>
    <sup>Upload steam workshop tutorial</sup>
 </div>
 

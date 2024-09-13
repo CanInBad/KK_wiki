@@ -69,14 +69,15 @@ The model we imported must have a Humanoid avatar in order to work with KoboldKa
 
 Select Create From This Avatar, then hit apply.
 
-<div align="center">
-   <img src="../images/getting-started-with-character-modding/Lilith_humanoid_avatar_configure.png" alt="Lilith_humanoid_avatar_configure.png" width="75%" /><br/>
-   <sup>Lilith_humanoid_avatar_configure.png</sup>
-</div>
 
 ### Configuring the Humanoid Avatar
 
 Hit Configure on the humanoid avatar, and ensure that all the bones are set up in a way that makes sense. You can find extra information on configuring avatars from the Unity Manual here: [Unity Manual ConfiguringtheAvatar](https://docs.unity3d.com/Manual/ConfiguringtheAvatar.html)
+
+<div align="center">
+   <img src="../images/getting-started-with-character-modding/Lilith_humanoid_avatar_configure.png" alt="Lilith_humanoid_avatar_configure.png" width="75%" /><br/>
+   <sup>Lilith_humanoid_avatar_configure.png</sup>
+</div>
 
 ### Setting up Materials
 
@@ -89,7 +90,7 @@ For the Body of your character, you'll want to use the [Kobold Shader](Kobold_Sh
    <sup>Lilith_kobold_shader.png</sup>
 </div>
 
-Eyes optionally can be done with [Vilar's EyeV2 Shader](Vilar's_EyeV2_Shader "wikilink"), which is fairly complicated.  
+Eyes optionally can be done with [Vilar's EyeV2 Shader](Vilar's_EyeV2_Shader), which is fairly complicated.  
 Though you can get a wide variety of eye types with it.
 
 <div align="center">
