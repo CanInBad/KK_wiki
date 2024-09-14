@@ -6,7 +6,7 @@ contributors:
 
 This is an iterative process and there's a lot of things that need to go right for a full-fledged character to be added to the game.
 
-While there is a lot to do, we can take it in steps, and not everything needs to be done at once. You might want to start with [Installing the KoboldKare SDK](../done/Installing_the_KoboldKare_SDK) if you haven't yet.
+While there is a lot to do, we can take it in steps, and not everything needs to be done at once. You might want to start with [Installing the KoboldKare SDK](Installing_the_KoboldKare_SDK) if you haven't yet.
 
 ## Get your hands on a 3D model
 
@@ -69,7 +69,6 @@ The model we imported must have a Humanoid avatar in order to work with KoboldKa
 
 Select Create From This Avatar, then hit apply.
 
-
 ### Configuring the Humanoid Avatar
 
 Hit Configure on the humanoid avatar, and ensure that all the bones are set up in a way that makes sense. You can find extra information on configuring avatars from the Unity Manual here: [Unity Manual ConfiguringtheAvatar](https://docs.unity3d.com/Manual/ConfiguringtheAvatar.html)
@@ -83,14 +82,15 @@ Hit Configure on the humanoid avatar, and ensure that all the bones are set up i
 
 KoboldKare uses standard metallic PBR maps for its shaders, however it also has some extra features that are optional that I'll try to cover. Create fresh materials by right-clicking in the Project tab and click "Create → Material" for each material necessary for your character.
 
-For the Body of your character, you'll want to use the [Kobold Shader](Kobold_Shader). Fill out the maps that you have, leave DecalColorMap blank as that's used for decals.
+For the Body of your character, you'll want to use the Kobold Shader. Fill out the maps that you have, leave DecalColorMap blank as that's used for decals.
+<!-- the Kobold Shader above also had link that goes no where, not even a reference in the dump -->
 
 <div align="center">
    <img src="../images/getting-started-with-character-modding/Lilith_kobold_shader.png" alt="Lilith_kobold_shader.png" width="75%" /><br/>
    <sup>Lilith_kobold_shader.png</sup>
 </div>
 
-Eyes optionally can be done with [Vilar's EyeV2 Shader](Vilar's_EyeV2_Shader), which is fairly complicated.  
+Eyes optionally can be done with [Vilar's EyeV2 Shader](https://github.com/Vilar24/VilarVRC), which is fairly complicated.  
 Though you can get a wide variety of eye types with it.
 
 <div align="center">
@@ -201,5 +201,5 @@ While we managed to get the character in-game, there's a lot missing still. On t
 
 Some of these steps are not required, though I highly recommend them:
 
-- [Setting up JigglePhysics](Setting_up_JigglePhysics "wikilink")
+- [Setting up JigglePhysics](Setting_up_JigglePhysics)
 

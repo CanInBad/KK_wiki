@@ -53,7 +53,7 @@ contributors:
           <center>Alchemy</center></a>
         </td>
         <td>
-          <a href="../notdone/Equipment"><img src="../images/main-page/Helmet.png" alt="Hand crank grinder in its natural habitat"/><br/>
+          <a href="../done/Equipment"><img src="../images/main-page/Helmet.png" alt="Hand crank grinder in its natural habitat"/><br/>
           <center>Equipment</center></a>
         </td>
         <td>

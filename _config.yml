@@ -7,5 +7,6 @@ relative_links:
   collections: true
 include:
   - README.md
-
+title: KoboldKare Wiki
+description: A temporary wiki for a game KoboldKare. May or may not contain outdated information
 remote_theme: pages-themes/minimal

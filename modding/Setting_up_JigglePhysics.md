@@ -4,7 +4,7 @@ contributors:
   - Naelstrof
 ---
 
-This article assumes you have finished both [Installing the KoboldKare SDK](../done/Installing_the_KoboldKare_SDK) and [Getting started with Character Modding](../done/Getting_started_with_Character_Modding).
+This article assumes you have finished both [Installing the KoboldKare SDK](Installing_the_KoboldKare_SDK) and [Getting started with Character Modding](Getting_started_with_Character_Modding).
 
 With your character working in game, now you want to add some jiggle to the character!
 

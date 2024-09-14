@@ -163,5 +163,5 @@ These options are listed under **Main Menu → Options → Kobold**
 
 Further customization is available in the form of
 
-[Equipment](../done/Equipment)
+[Equipment](Equipment)
 

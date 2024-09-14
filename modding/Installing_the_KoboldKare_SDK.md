@@ -14,8 +14,6 @@ First you'll need the following:
 2.  [Blender](https://www.blender.org/download/)
 3.  [git](https://git-scm.com/downloads)
 
-
-
 You can download them all via [Windows package manager](https://learn.microsoft.com/en-us/windows/package-manager/winget/#use-winget), and this is recommended as both Blender and git need to show up within your system path.
 
 ## Installing KoboldKare SDK
